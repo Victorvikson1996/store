@@ -18,3 +18,4 @@ export const backgroundGrey2 = '#E9EBF84D';
 export const orange = '#FF8A00';
 export const lightOrange = '#FFF3E6';
 export const darkGreen = '#357F2F';
+export const black = '#000000';
